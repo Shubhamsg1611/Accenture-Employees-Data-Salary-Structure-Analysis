@@ -27,11 +27,49 @@ The dataset includes the following key columns:
 3. Salary Slip Generation
 - Automated generation of employee salary slips with earnings and deductions
 - Monthly and yearly salary insights
+
 ## Technologies Used:
 - Microsoft Excel:
 1. Data Analysis
 2. Pivot Table
 3. Charts
+
+## Salary Slip Overview:
+This Accenture Multinational Company Monthly Salary Slip provides a detailed breakdown of an employee’s earnings and deductions for January 2025. The salary slip is signed by the Director for official verification. This structured salary slip provides clear insights into an employee’s monthly earnings, deductions, and final salary, ensuring transparency in payroll management. 
+- Salary Slip Contains:
+  1. Employee Details
+  2. Earnings
+  3. Deductions
+  4. Final Salary Details
+ ![](https://github.com/Shubhamsg1611/Accenture-Employees-Data-Salary-Structure-Analysis/blob/main/Salary%20Slip.png)
+
+## Dashboard Overview:
+This Excel-based dashboard presents key insights into Accenture's employee demographics, salary structure, and shift-wise distribution using charts and graphs for a clear understanding of workforce trends.
+![](https://github.com/Shubhamsg1611/Accenture-Employees-Data-Salary-Structure-Analysis/blob/main/Dashboard.png)
+- Employee Demographics:
+Total Employees: 1,000 | Female Employees: 501 | Male Employees: 499
+
+- Salary Structure:
+1. Average Net Salary: ₹95,878.46
+2. Min Net Salary: ₹15,843.61
+3. Max Net Salary: ₹170,561.45
+4. Average HRA Allowance: ₹10,562.53
+5. Average Provident Fund: ₹12,675.03
+
+- Shift Distribution:
+1. Day Shift: 334 employees
+2. Rotational Shift: 319 employees
+3. Night Shift: 347 employees
+
+- Visual Data Representations:
+1. Salary Distribution: A bar chart displaying employee count across different salary ranges.
+2. Salary vs. Experience: A scatter plot showing the relationship between salary and experience.
+3. Designation-wise Employee Count: A bar chart indicating that Consultants have the highest number of employees, followed by Software Engineers and Senior Developers.
+4. Employees by Age Group: A bar chart showing the highest concentration in the 30-34 age group.
+5. Shift-wise Employee Distribution: A pie chart categorizing employees into Junior, Mid, and Senior levels.
+
+- Conclusion
+This dashboard effectively summarizes salary trends, workforce distribution, and demographic insights, helping HR and management teams optimize workforce planning, compensation strategies, and employee benefits.
 
 ## Conclusion:
 The provided image shows a company's workforce data and salary distribution. Here are some key observations:
